@@ -16,4 +16,4 @@ After you've watched that video, click on the Issues tab up above (Just under "S
 
 Read one or a few of them, and then click the green "New Issue" in the upper right, and write up a bug report yourself, following the same format.  The bug doesn't have to actually exist, or be in AoTTG--you can describe a bug that exists in *any* game, or make something up about purple unicorns, as long as it's clear, understandable, and follows the correct format.  Finally, make sure you mark the issue with a bug label!
 
-Once you're done, tell Antigasp (SlowDeepExhalation) that you created the bug, and he'll tell you if it should be changed or improved.  If not, he'll give it the "Good Bug Report!" label, and you can pat yourself on the back.
+Once you're done, tell Antigasp (SlowDeepExhalation) that you created the bug, and he'll tell you if it should be changed or improved.  If it's good enough to qualify for the report writer role, he'll give it the "Good Bug Report!" label, and you can pat yourself on the back.
